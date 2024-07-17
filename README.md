@@ -1,4 +1,4 @@
-# app_lstargram
+# LstarGram
 
 A new Flutter project.
 
